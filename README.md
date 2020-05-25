@@ -90,8 +90,8 @@ See [preprocess.R](scripts/preprocess.R) for baseline subtraction and peak extra
 
 
 ## Publications
-Yi Yang, Yu Lin, and Liang Qiao, "Direct MALDI-TOF MS Identification of Bacterial Mixtures", Submitted.
-
+1. Yang, Y., Lin, Y., Chen, Z., Gong, T., Yang, P., Girault, H., Liu, B., Qiao, L. Bacterial whole cell typing by mass spectra pattern matching with bootstrapping assessment. *Anal Chem* **89**, 12556–12561 (2017). https://doi.org/10.1021/acs.analchem.7b03820.
+2. Yang, Y., Lin, Y., Qiao, L. Direct MALDI-TOF MS identification of bacterial mixtures. *Anal Chem* **90**, 10400–10408 (2018). https://doi.org/10.1021/acs.analchem.8b02258.
 
 ## License
 BacteriaMS-mixture is distributed under a BSD license. See the LICENSE file for details.
